@@ -1,0 +1,14 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: #FFF;
+  font-family: 'Menlo';
+  font-size: 16pt;
+  line-height: 14pt;
+}
+
+canvas {
+  display: block;
+}
