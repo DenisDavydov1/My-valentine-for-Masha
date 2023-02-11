@@ -6,7 +6,7 @@ const fills = [
   '.Машенька',
   '.я+ты=навсегда',
   '.я-влюблен,обожаю,люблю',
-  '.иду-вперед-ради-тебя',
+  // '.иду-вперед-ради-тебя',
   '.хрупкая,но-сильная',
   '.Маша,я-тебя-люблю',
   '.ценю,люблю,обнимаю',
@@ -24,7 +24,7 @@ const VH = Math.max(document.documentElement.clientHeight || 0, window.innerHeig
 console.log(VW, VH);
 // const W = 160;
 // const H = 100;
-const W = Math.floor(VW / 11.3);
+const W = Math.floor(VW / 9);
 const H = W / 1.6;
 console.log(W, H);
 
