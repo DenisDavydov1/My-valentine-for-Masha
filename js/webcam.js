@@ -25,7 +25,7 @@ console.log(VW, VH);
 // const W = 160;
 // const H = 100;
 const W = Math.floor(VW / 15);
-const H = W / 1.6;
+const H = W / 1.4;
 console.log(W, H);
 
 
