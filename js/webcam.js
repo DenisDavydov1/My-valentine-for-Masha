@@ -28,6 +28,7 @@ const W = Math.floor(VW / 11.3);
 const H = W / 1.6;
 console.log(W, H);
 
+
 function setup() {
   noCanvas();
   video = createCapture(VIDEO);
